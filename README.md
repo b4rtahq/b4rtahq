@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+<img src="https://raw.githubusercontent.com/b4rtahq/b4rta-landing/main/b4rta.png" width="120">
+</p>
 
-<!--
-**b4rtahq/b4rtahq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# B4RTA //
 
-Here are some ideas to get you started:
+Systems. Constraints. Long horizons.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Independent log exploring:
+
+- systems thinking
+- infrastructure
+- incentives
+- decision-making under constraints
+
+Website → https://b4rta.co  
+X → https://x.com/_B4RTA
