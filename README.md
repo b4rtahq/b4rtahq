@@ -20,3 +20,5 @@ Website → https://b4rta.co
 X → https://x.com/_B4RTA
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=b4rtahq&theme=github-dark)
+
+![visitors](https://komarev.com/ghpvc/?username=b4rtahq&color=blue)
