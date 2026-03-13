@@ -3,12 +3,12 @@
 ![stack](https://img.shields.io/badge/stack-infrastructure-darkblue)
 
 <p align="center">
-<img src="b4rta.png" width="110">
+<img src="./b4rta.png" width="110">
 </p>
 
 <br>
 
-# B4RTA //# B4RTA //
+# B4RTA //
 
 Systems. Constraints. Long horizons.
 
