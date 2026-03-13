@@ -2,7 +2,10 @@
 ![focus](https://img.shields.io/badge/focus-systems-black)
 ![stack](https://img.shields.io/badge/stack-infrastructure-darkblue)
 
+<p align="center">
 B4RTA
+</p>
+
 
 Systems. Constraints. Long horizons.
 
