@@ -1,11 +1,14 @@
 ![status](https://img.shields.io/badge/status-building-blue)
 ![focus](https://img.shields.io/badge/focus-systems-black)
 ![stack](https://img.shields.io/badge/stack-infrastructure-darkblue)
+
 <p align="center">
 <img src="b4rta.png" width="110">
 </p>
 
-# B4RTA //
+<br>
+
+# B4RTA //# B4RTA //
 
 Systems. Constraints. Long horizons.
 
