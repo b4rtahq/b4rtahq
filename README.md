@@ -8,7 +8,7 @@
 
 <br>
 
-# B4RTA //
+# B4RTA
 
 Systems. Constraints. Long horizons.
 
